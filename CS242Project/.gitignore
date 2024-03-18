@@ -1,0 +1,17 @@
+
+CS242 Final Combined IMDB Dataset (nulls replaced).json
+*.index
+batch-strings.txt
+*.28
+CS242 Datasets IMDB/comb_1.json
+CS242 Datasets IMDB/comb_2.json
+CS242 Datasets IMDB/comb_3.json
+CS242 Datasets IMDB/comb_4.json
+CS242 Datasets IMDB/comb_5.json
+CS242 Datasets IMDB/comb_6.json
+CS242 Datasets IMDB/comb_7.json
+CS242 Datasets IMDB/comb_8.json
+CS242 Datasets IMDB/comb_9.json
+*.json
+*.pyc
+
